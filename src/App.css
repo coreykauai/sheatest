@@ -124,7 +124,7 @@ table {
 }
 
 :root {
-  background-image: url(public/Pictures/keith-champaco-52SoO_uy9U4-unsplash.jpg);
+  background-image: url(/Pictures/keith-champaco-52SoO_uy9U4-unsplash.jpg);
   background-position: top;
   background-repeat: no-repeat;
   height: 100vh;
